@@ -88,6 +88,10 @@
             "contact":"hardware@qdnx.org",
             "vendor":"Quadronyx"
         },
+        "0x6e5effc7":{
+            "contact":"al@plap.com",
+            "vendor":"ABrugsch Industries"
+        },
         "0x706e335f":{
             "contact":"pn3@mew.cx",
             "vendor":"Project Azide"
